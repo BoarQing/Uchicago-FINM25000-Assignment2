@@ -1,0 +1,10 @@
+*/*.pyc
+env.sh
+.venv/
+charts/*
+__pycache__
+report.tex
+generate_report.py
+report.aux
+report.log
+report.out
